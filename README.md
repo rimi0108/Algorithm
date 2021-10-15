@@ -1,1 +1,1 @@
-### 🏋️‍♀️ Algorithm Training
+### Algorithm Training 🏋️‍♀️
