@@ -1,4 +1,3 @@
-```
 def solution(lottos, win_nums):
     rank = [6, 6, 5, 4, 3, 2, 1]
     match = []
@@ -14,4 +13,3 @@ def solution(lottos, win_nums):
             
     answer = [rank[max], rank[min]]
     return answer
-```
