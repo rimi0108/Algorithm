@@ -12,6 +12,8 @@
 - [최댓값 구하기](https://github.com/rimi0108/Algorithm/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EA%B8%B0%EC%B4%88/%EC%B5%9C%EB%8C%93%EA%B0%92%20%EA%B5%AC%ED%95%98%EA%B8%B0.py)
 - [최댓값의 위치 구하기](https://github.com/rimi0108/Algorithm/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EA%B8%B0%EC%B4%88/%EC%B5%9C%EB%8C%93%EA%B0%92%EC%9D%98%20%EC%9C%84%EC%B9%98%20%EA%B5%AC%ED%95%98%EA%B8%B0.py)
 - [최소값 구하기](https://github.com/rimi0108/Algorithm/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EA%B8%B0%EC%B4%88/%EC%B5%9C%EC%86%8C%EA%B0%92%20%EA%B5%AC%ED%95%98%EA%B8%B0.py)
+- [동명이인 찾기](https://github.com/rimi0108/Algorithm/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EA%B8%B0%EC%B4%88/%EB%8F%99%EB%AA%85%EC%9D%B4%EC%9D%B8%20%EC%B0%BE%EA%B8%B0.py)
+- [짝 짓기](https://github.com/rimi0108/Algorithm/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EA%B8%B0%EC%B4%88/%EC%A7%9D%20%EC%A7%93%EA%B8%B0.py)
 
 ### RoadMap
 
