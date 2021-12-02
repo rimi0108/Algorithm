@@ -20,6 +20,8 @@
 - [연속한 숫자의 곱](https://github.com/rimi0108/Algorithm/blob/main/%EC%9E%AC%EA%B7%80%ED%98%B8%EC%B6%9C/%EC%97%B0%EC%86%8D%ED%95%9C%20%EC%88%AB%EC%9E%90%EC%9D%98%20%EA%B3%B1.py)
 - [n개 중 최댓값 찾기](https://github.com/rimi0108/Algorithm/blob/main/%EC%9E%AC%EA%B7%80%ED%98%B8%EC%B6%9C/n%EA%B0%9C%20%EC%A4%91%20%EC%B5%9C%EB%8C%93%EA%B0%92%20%EC%B0%BE%EA%B8%B0.py)
 - [1부터 n까지의 합 구하기](https://github.com/rimi0108/Algorithm/blob/main/%EC%9E%AC%EA%B7%80%ED%98%B8%EC%B6%9C/1%EB%B6%80%ED%84%B0%20n%EA%B9%8C%EC%A7%80%EC%9D%98%20%ED%95%A9%20%EA%B5%AC%ED%95%98%EA%B8%B0.py)
+- [최대공약수 구하기](https://github.com/rimi0108/Algorithm/blob/main/%EC%9E%AC%EA%B7%80%ED%98%B8%EC%B6%9C/%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0.py)
+- [피보나치 수열](https://github.com/rimi0108/Algorithm/blob/main/%EC%9E%AC%EA%B7%80%ED%98%B8%EC%B6%9C/%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%EC%88%98%EC%97%B4.py)
 
 ### RoadMap
 
