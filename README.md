@@ -26,6 +26,14 @@
 
 ### 탐색과 정렬
 
+#### 탐색
+
+- [리스트에서 특정 숫자의 위치 리스트 찾기](https://github.com/rimi0108/Algorithm/blob/main/%ED%83%90%EC%83%89%EA%B3%BC%20%EC%A0%95%EB%A0%AC/%EB%A6%AC%EC%8A%A4%ED%8A%B8%EC%97%90%EC%84%9C%20%ED%8A%B9%EC%A0%95%20%EC%88%AB%EC%9E%90%EC%9D%98%20%EC%9C%84%EC%B9%98%20%EB%A6%AC%EC%8A%A4%ED%8A%B8%20%EC%B0%BE%EA%B8%B0.py)
+- [리스트에서 특정 숫자의 위치 찾기](https://github.com/rimi0108/Algorithm/blob/main/%ED%83%90%EC%83%89%EA%B3%BC%20%EC%A0%95%EB%A0%AC/%EB%A6%AC%EC%8A%A4%ED%8A%B8%EC%97%90%EC%84%9C%20%ED%8A%B9%EC%A0%95%20%EC%88%AB%EC%9E%90%EC%9D%98%20%EC%9C%84%EC%B9%98%20%EC%B0%BE%EA%B8%B0.py)
+- [학생 이름 찾기](https://github.com/rimi0108/Algorithm/blob/main/%ED%83%90%EC%83%89%EA%B3%BC%20%EC%A0%95%EB%A0%AC/%ED%95%99%EC%83%9D%20%EC%9D%B4%EB%A6%84%20%EC%B0%BE%EA%B8%B0.py)
+
+#### 정렬
+
 ### RoadMap
 
 - [ ] 모두의 알고리즘 with 파이썬
