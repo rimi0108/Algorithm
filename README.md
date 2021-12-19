@@ -34,6 +34,10 @@
 
 #### 정렬
 
+- [쉽게 설명한 선택 정렬 알고리즘](https://github.com/rimi0108/Algorithm/blob/main/%ED%83%90%EC%83%89%EA%B3%BC%20%EC%A0%95%EB%A0%AC/%EC%89%BD%EA%B2%8C%20%EC%84%A4%EB%AA%85%ED%95%9C%20%EC%84%A0%ED%83%9D%20%EC%A0%95%EB%A0%AC.py)
+- [일반적인 선택 정렬 알고리즘](https://github.com/rimi0108/Algorithm/blob/main/%ED%83%90%EC%83%89%EA%B3%BC%20%EC%A0%95%EB%A0%AC/%EC%9D%BC%EB%B0%98%EC%A0%81%EC%9D%B8%20%EC%84%A0%ED%83%9D%20%EC%A0%95%EB%A0%AC%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.py)
+- [쉽게 설명한 삽입 정렬 알고리즘](https://github.com/rimi0108/Algorithm/blob/main/%ED%83%90%EC%83%89%EA%B3%BC%20%EC%A0%95%EB%A0%AC/%EC%89%BD%EA%B2%8C%20%EC%84%A4%EB%AA%85%ED%95%9C%20%EC%82%BD%EC%9E%85%20%EC%A0%95%EB%A0%AC%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.py)
+
 ### RoadMap
 
 - [ ] 모두의 알고리즘 with 파이썬
