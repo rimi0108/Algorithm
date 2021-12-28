@@ -32,6 +32,7 @@
 - [리스트에서 특정 숫자의 위치 리스트 찾기](https://github.com/rimi0108/Algorithm/blob/main/%ED%83%90%EC%83%89%EA%B3%BC%20%EC%A0%95%EB%A0%AC/%EB%A6%AC%EC%8A%A4%ED%8A%B8%EC%97%90%EC%84%9C%20%ED%8A%B9%EC%A0%95%20%EC%88%AB%EC%9E%90%EC%9D%98%20%EC%9C%84%EC%B9%98%20%EB%A6%AC%EC%8A%A4%ED%8A%B8%20%EC%B0%BE%EA%B8%B0.py)
 - [리스트에서 특정 숫자의 위치 찾기](https://github.com/rimi0108/Algorithm/blob/main/%ED%83%90%EC%83%89%EA%B3%BC%20%EC%A0%95%EB%A0%AC/%EB%A6%AC%EC%8A%A4%ED%8A%B8%EC%97%90%EC%84%9C%20%ED%8A%B9%EC%A0%95%20%EC%88%AB%EC%9E%90%EC%9D%98%20%EC%9C%84%EC%B9%98%20%EC%B0%BE%EA%B8%B0.py)
 - [학생 이름 찾기](https://github.com/rimi0108/Algorithm/blob/main/%ED%83%90%EC%83%89%EA%B3%BC%20%EC%A0%95%EB%A0%AC/%ED%95%99%EC%83%9D%20%EC%9D%B4%EB%A6%84%20%EC%B0%BE%EA%B8%B0.py)
+- [이분 탐색 알고리즘](https://github.com/rimi0108/Algorithm/blob/main/%ED%83%90%EC%83%89%EA%B3%BC%20%EC%A0%95%EB%A0%AC/%EC%9D%B4%EB%B6%84%20%ED%83%90%EC%83%89%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.py)
 
 #### 정렬
 
@@ -41,6 +42,14 @@
 - [일반적인 삽입 정렬 알고리즘](https://github.com/rimi0108/Algorithm/blob/main/%ED%83%90%EC%83%89%EA%B3%BC%20%EC%A0%95%EB%A0%AC/%EC%9D%BC%EB%B0%98%EC%A0%81%EC%9D%B8%20%EC%82%BD%EC%9E%85%20%EC%A0%95%EB%A0%AC%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.py)
 - [쉽게 설명한 병합 정렬 알고리즘](https://github.com/rimi0108/Algorithm/blob/main/%ED%83%90%EC%83%89%EA%B3%BC%20%EC%A0%95%EB%A0%AC/%EC%89%BD%EA%B2%8C%20%EC%84%A4%EB%AA%85%ED%95%9C%20%EB%B3%91%ED%95%A9%20%EC%A0%95%EB%A0%AC%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.py)
 - [일반적인 병합 정렬 알고리즘](https://github.com/rimi0108/Algorithm/blob/main/%ED%83%90%EC%83%89%EA%B3%BC%20%EC%A0%95%EB%A0%AC/%EC%9D%BC%EB%B0%98%EC%A0%81%EC%9D%B8%20%EB%B3%91%ED%95%A9%20%EC%A0%95%EB%A0%AC%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.py)
+- [쉽게 설명한 퀵 정렬 알고리즘](https://github.com/rimi0108/Algorithm/blob/main/%ED%83%90%EC%83%89%EA%B3%BC%20%EC%A0%95%EB%A0%AC/%EC%89%BD%EA%B2%8C%20%EC%84%A4%EB%AA%85%ED%95%9C%20%ED%80%B5%20%EC%A0%95%EB%A0%AC%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.py)
+- [일반적인 퀵 정렬 알고리즘](https://github.com/rimi0108/Algorithm/blob/main/%ED%83%90%EC%83%89%EA%B3%BC%20%EC%A0%95%EB%A0%AC/%EC%9D%BC%EB%B0%98%EC%A0%81%EC%9D%B8%20%ED%80%B5%20%EC%A0%95%EB%A0%AC%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.py)
+
+### 자료 구조
+
+#### 큐와 스택
+
+- [회문 찾기 알고리즘](https://github.com/rimi0108/Algorithm/blob/main/%EC%9E%90%EB%A3%8C%20%EA%B5%AC%EC%A1%B0/%ED%9A%8C%EB%AC%B8%20%EC%B0%BE%EA%B8%B0%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.py)
 
 ### RoadMap
 
