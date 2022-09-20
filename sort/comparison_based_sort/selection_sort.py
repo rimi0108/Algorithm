@@ -17,10 +17,25 @@ class Solution:
             # Swap current index with minimum element in rest of list
             lst[min_index], lst[i] = lst[i], lst[min_index]
 
+    def sortColors(self, nums: List[int]) -> None:
+        """
+        Do not return anything, modify nums in-place instead.
+        """
+        for i in range(len(nums)):
+            min_index = i
+            for j in range(i + 1, len(nums)):
+                if nums[j] < nums[min_index]:
+                    min_index = j
+            
+            nums[min_index], nums[i] = nums[i], nums[min_index]
+
 lst: List[int] = [4, 3, 5, 1, 8, 2, 9]
+nums: List[int] = [2, 0, 2, 1, 1, 0]
 
-solution1 = Solution()
+solution = Solution()
 
-solution1.selection_sort(lst)
+solution.selection_sort(lst)
+solution.sortColors(nums)
 
 print(lst)
+print(nums)
