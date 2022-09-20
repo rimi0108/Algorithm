@@ -1,6 +1,6 @@
-# sort 정렬
+# sort (정렬)
 
-## comparison based sort 비교기반 정렬
+## comparison based sort (비교기반 정렬)
 ### O(n2)
 #### selection sort 선택 정렬
 - 주어진 데이터 중에서 가장 작은 값부터 차례대로 선택해서 나열하는 방식
